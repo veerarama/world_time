@@ -1,6 +1,6 @@
 # worldtime
 
-A new Flutter application.
+A new Flutter application to view time zome of different places
 
 ## Getting Started
 
